@@ -1,7 +1,8 @@
 {
   "name": "jglynn-co",
   "version": "0.1.0",
-  "private": true,
+  "private": false,
+  "homepage": "https://monacoglynn.github.io/jglynnandco",
   "dependencies": {
     "@fontsource/raleway": "^4.5.10",
     "@fortawesome/fontawesome-free": "^6.2.0",

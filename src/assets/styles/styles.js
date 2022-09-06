@@ -9,6 +9,8 @@ const styles = {
     },
     header: {
       backgroundColor: '#563635',
+      display: 'flex',
+      justifyContent: 'space-evenly'
     },
     button: {
       color: '#f0ebe9',
